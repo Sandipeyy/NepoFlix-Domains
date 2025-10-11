@@ -2,6 +2,12 @@
 
 A sleek, dark-themed landing page listing NepoFlix’s main and backup domains. Built with pure HTML, CSS, and JavaScript, optimized for GitHub Pages deployment.
 
+## Images
+
+<div align="center">
+  <img src="https://api.microlink.io/?url=https://sandipeyy.github.io/NepoFlix-Domains/&screenshot=true&meta=false&embed=screenshot.url&type=jpeg&overlay.browser=dark&overlay.background=linear-gradient%28225deg%2C+%23FF057C+0%25%2C+%238D0B93+50%25%2C+%23321575+100%25%29" alt="Home Page" style="max-width: 100%;" >
+</div>
+
 ## Features
 
 - Dark Netflix-style design with red accent buttons  
